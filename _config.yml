@@ -60,12 +60,12 @@ avatar: "images/profile.jpg"
 links:
   - aboutme:
       name: AboutMe
-      show: true
-      href: https://www.achen24.github.io/aboutme.HTML
+      show: false
+      href: https://www.achen24.github.io/
       icon: fas fa-user-circle
   - resume:
       name: Resume
-      show: true
+      show: false
       href: https://www.achen24.github.io/assets/resume.pdf
       icon: fas fa-id-card
 
