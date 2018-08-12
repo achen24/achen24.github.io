@@ -42,9 +42,9 @@ baseurl: ''
 # https://support.google.com/analytics/answer/2763052
 #ga:
 ga:
-    account: 'UA-120960520-1'
-    cookieconsent: true
-    anonymizeip: true
+#    account: 'UA-120960520-1'
+#    cookieconsent: true
+#    anonymizeip: true
 
 
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
@@ -58,6 +58,17 @@ avatar: "images/profile.jpg"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
+  - aboutme:
+      name: AboutMe
+      show: true
+      href: https://www.achen24.github.io/aboutme.HTML
+      icon: fas fa-user-circle
+  - resume:
+      name: Resume
+      show: true
+      href: https://www.achen24.github.io/assets/resume.pdf
+      icon: fas fa-id-card
+
   - xing:
       name: Xing
       show: false
@@ -174,5 +185,5 @@ links:
 #extra_html:
 extra_html: >
     Hello, World | 你好，世界
-    
+
 #EOF
