@@ -1,3 +1,5 @@
+this was my first Jekyll page when I was playing around with Github pages. i copied a theme from another Jekyll user and tried to incorporate my own elements. 
+
 [DEMO](https://tsjensen.github.io/fuse-core/)
 
 # Fuse Core
