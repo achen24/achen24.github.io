@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Andy Chen
 #subtitle:
-subtitle: Future Software Engineer
+subtitle: Software Engineer
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
