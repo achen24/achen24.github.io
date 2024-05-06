@@ -184,6 +184,5 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Hello, World | 你好，世界
 
 #EOF
